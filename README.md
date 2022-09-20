@@ -24,17 +24,17 @@ big
 
 >>3.2
 
-*1st
+* 1st
 
-*2nd
+* 2nd
 
-*3rd
+* 3rd
 
-1.red
+1.red 🔴
 
-2.yellow
+2.yellow 🟡
 
-3.blue
+3.blue 🔵
 
 ---
 
