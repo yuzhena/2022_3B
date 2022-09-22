@@ -47,4 +47,4 @@ Strikethrough uses two tildes.~~Scratch this.~~
 ---
 1.First ordered list item
 2.Another item
-  ..*Unordered sub-list.
+  Unordered sub-list.
