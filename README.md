@@ -46,3 +46,7 @@ Combined emphasis with **asterisks or underscores.**
 Strikethrough uses two tildes.~~Scratch this.~~  
 
 ---
+
+1.First ordered list item  
+2.Anoher item  
+  
