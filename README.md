@@ -40,7 +40,7 @@ big
 
 [NKUST](https://www.nkust.edu.tw/)
 
-Emphasis, ask italics with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks or underscores.
-Strikethrough uses two tildes.Scratch this.
+Emphasis, ask *italics* with *asterisks* or *underscores.*
+Strong emphasis, aka bold, with **asterisks** or **underscores.**
+Combined emphasis with **asterisks or underscores.**
+Strikethrough uses two tildes.~~Scratch this.~~
