@@ -26,8 +26,8 @@ Strikethrough uses two tildes.~~Scratch this.~~
   
 ---  
   
-python code
-```py
+python code   
+``` python =
 s = "python syntax highlighting"  
 print s
 ```
